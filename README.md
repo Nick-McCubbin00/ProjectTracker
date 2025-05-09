@@ -1,17 +1,17 @@
 # ProjectTracker
-Tracks my Projects and completion percentages of those projects. 
+Below are the Projects im currently Working on and they are listed in the order of priority. [Top to Bottom]
 
 
-![Pricing Automation](https://github.com/users/Nick-McCubbin00/projects/5)
-
+![Open A/R Fix](https://github.com/users/Nick-McCubbin00/projects/3)
 
 ![Customer Conversion](https://github.com/users/Nick-McCubbin00/projects/1)
-
 
 ![Credit Utilization](https://github.com/users/Nick-McCubbin00/projects/4)
 
 ![Pricing Tiers](https://github.com/users/Nick-McCubbin00/projects/2)
 
+![Pricing Automation](https://github.com/users/Nick-McCubbin00/projects/5)
+
 ![Trading Dashboard](https://github.com/users/Nick-McCubbin00/projects/6)
 
-![Open A/R Fix](https://github.com/users/Nick-McCubbin00/projects/3)
+
