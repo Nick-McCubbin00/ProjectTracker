@@ -11,3 +11,7 @@ Tracks my Projects and completion percentages of those projects.
 ![Credit Utilization](https://github.com/users/Nick-McCubbin00/projects/4)
 
 ![Pricing Tiers](https://github.com/users/Nick-McCubbin00/projects/2)
+
+![Trading Dashboard](https://github.com/users/Nick-McCubbin00/projects/6)
+
+![Open A/R Fix](https://github.com/users/Nick-McCubbin00/projects/3)
