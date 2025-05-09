@@ -6,9 +6,9 @@ Below are the Projects im currently Working on and they are listed in the order 
 
 ![Customer Conversion](https://github.com/users/Nick-McCubbin00/projects/1)  **Also on hold due to Aaron being out of office - Need to add the code for the table to the refresh queries that dont support auto refresh so that the data stays up to date**
 
-![Credit Utilization](https://github.com/users/Nick-McCubbin00/projects/4) ** On Hold due to the date created system info not being pulled into data lake** 
+![Credit Utilization](https://github.com/users/Nick-McCubbin00/projects/4) **On Hold due to the date created system info not being pulled into data lake** 
 
-![Pricing Tiers](https://github.com/users/Nick-McCubbin00/projects/2)
+![Pricing Tiers](https://github.com/users/Nick-McCubbin00/projects/2) **Need David to add Pricing Tier expiration to the datalake since thats not a field being tracked**
 
 ![Pricing Automation](https://github.com/users/Nick-McCubbin00/projects/5)
 
