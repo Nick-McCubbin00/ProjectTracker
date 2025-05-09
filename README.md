@@ -2,7 +2,7 @@
 Below are the Projects im currently Working on and they are listed in the order of priority. [Top to Bottom]
 
 
-![Open A/R Fix](https://github.com/users/Nick-McCubbin00/projects/3)  On Hold Due to David Being out of office -- Reason shown in subtask
+![Open A/R Fix](https://github.com/users/Nick-McCubbin00/projects/3)  **On Hold Due to David Being out of office -- Reason shown in subtask**
 
 ![Customer Conversion](https://github.com/users/Nick-McCubbin00/projects/1)
 
